@@ -35,7 +35,7 @@ const Index = props => {
             <div className="lg:w-2/3">
               <div className="max-w-xl mx-auto">
                 <h1 className="text-4xl lg:text-5xl text-center lg:text-left font-light">
-                  Psychotherapy for
+                  Psychotherapy for testing
                   <br />
                   <span className="font-bold">trauma</span>,{" "}
                   <span className="font-bold">depression</span>,{" "}
